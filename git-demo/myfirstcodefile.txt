@@ -7,3 +7,9 @@ This is DEV3.
 I am the boss here.
 
 My new change is "I m adding a new line to this code"
+
+Hi Team,
+
+This is a new DevOps Engg Ethan.
+
+I am making these file changes to this file and trying to pole to GITHUB.
